@@ -1,0 +1,11 @@
+*.exe
+*.out
+lab1_greeting
+lab1_greeting.exe
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE workspace configurations
+.vscode/
